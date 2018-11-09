@@ -10,6 +10,9 @@
 
 6. Pytho合约的本地编译器[neo-boa](https://github.com/ontio/neo-boa)；即将替代neo-boa的[Python编译器](https://github.com/ontio/ontology-python-compiler)。
 
+
+感兴趣且有时间的话，也可以看一下我们的Dapp开发框架[punica-python](https://github.com/ontio-community/punica-python), 类型于Ethereum的truffle工具。
+
 Notes:
 
 合约开发：
@@ -40,6 +43,4 @@ Notes:
 2. 可以通过Cli运行、调试合约函数。
 
 3. 我们也有Python测试框架，可测试合约功能，建议：在上述内容有了大致了解之后，再去接触测试框架。
-
-4. 感兴趣且有时间的话，也可以看一下我们的Dapp开发框架[punica-python](https://github.com/ontio-community/punica-python), 类型于Ethereum的truffle工具。
 ```
