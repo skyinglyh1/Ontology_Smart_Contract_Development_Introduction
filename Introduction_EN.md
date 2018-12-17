@@ -14,36 +14,35 @@
 
 ##### Notes:
 
-Develop smart contract：
-```
+###### Develop smart contract：
+
 1. The interfaces of methods/functions that can be used within your smart contract can be found in [neo-boa](https://github.com/ontio/neo-boa).
 
 2. You can also find the available methods in SmartX through auto-completion.
-```
 
-Compile smart contract：
-```
+
+###### Compile smart contract：
+
 1. Compile your contract within SmartX.
 
 2. Compile your contract through offline neo-boa.
-```
 
-Deploy smart contract:
-```
+
+###### Deploy smart contract:
+
 1. You can connect your cyano wallet into local net, test net or main net. Through SmartX, you can deploy your contract into the designated network.
 Note that cyano wallet is a chrome plugin wallet for ontology network, you can treat it as the MetaMask for ethereum network. 
 
 2. If you have started your local ontology node, you can deploy your contract into local net, test net or main net through ontology Cli.
-```
 
-Test your contract：
-```
+###### Test your contract：
+
 1. You can run, debug, and test the methods within your smart contract through SmartX.
 
 2. You can also run and test your contract through Cli.
 
 3. We have also provided python testing [framework](https://github.com/ontio/ontology-test), which can be used to test your contract. Recommend you use testing framework after you know something about previous contents.
-```
+
 
 
 
