@@ -1,6 +1,6 @@
 1. [Ontology Smart Contract](https://github.com/ontio/ontology-smartcontract) 了解。
 
-2. [Ontology 本地环境搭建与节点启动](https://github.com/ontio/ontology)
+2. [Ontology 本地环境搭建与节点启动](https://github.com/ontio/ontology)。
 
 3. [Ontology Cli使用教程](https://github.com/ontio/ontology/blob/master/docs/specifications/cli_user_guide_CN.md)
 
