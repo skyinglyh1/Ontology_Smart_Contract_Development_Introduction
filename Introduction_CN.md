@@ -2,7 +2,7 @@
 
 2. [Ontology 本地环境搭建与节点启动](https://github.com/ontio/ontology)。
 
-3. [Ontology Cli使用教程](https://github.com/ontio/ontology/blob/master/docs/specifications/cli_user_guide_CN.md)
+3. [Ontology Cli使用教程](https://github.com/ontio/ontology/blob/master/docs/specifications/cli_user_guide_CN.md)。
 
 4. SmartX是一种在线合约开发、编译、布署[网站](https://smartx.ont.io/)。[这里](https://ontio.github.io/documentation/SmartX_Tutorial_en.html)是SmartX使用教程。
 
