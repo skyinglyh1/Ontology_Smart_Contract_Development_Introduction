@@ -8,7 +8,7 @@
 
 5. 一些简单基础的Python版Ontology[智能合约模版](https://github.com/ONT-Avocados/python-template)。
 
-6. Pytho合约的本地编译器[neo-boa](https://github.com/ontio/neo-boa)；即将替代neo-boa的[Python编译器](https://github.com/ontio/ontology-python-compiler)。
+6. Pytho合约的本地编译器[neo-boa](https://github.com/ontio/neo-boa)；升级版[Python编译器](https://github.com/ontio/ontology-python-compiler)。
 
 
 
