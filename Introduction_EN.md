@@ -2,9 +2,9 @@
 
 2. [Ontology Build local environment and start a node](https://github.com/ontio/ontology).
 
-3. [Ontology Cli guide](https://github.com/ontio/ontology/blob/master/docs/specifications/cli_user_guide.md)
+3. [Ontology Cli guide](https://github.com/ontio/ontology/blob/master/docs/specifications/cli_user_guide.md).
 
-4. SmartX is a [webiste](https://smartx.ont.io/), where you can develop, compile and deploy your smart contract.。[Here](https://ontio.github.io/documentation/SmartX_Tutorial_en.html) is the tutorial about how to use SmartX。
+4. SmartX is a [webiste](https://smartx.ont.io/), where you can develop, compile and deploy your smart contract. [Here](https://ontio.github.io/documentation/SmartX_Tutorial_en.html) is the tutorial about how to use SmartX.
 
 5. Some simple and basic smart contract templates of python version are provided [here](https://github.com/ONT-Avocados/python-template).
 
@@ -42,6 +42,8 @@ Note that cyano wallet is a chrome plugin wallet for ontology network, you can t
 2. You can also run and test your contract through Cli.
 
 3. We have also provided python testing [framework](https://github.com/ontio/ontology-test), which can be used to test your contract. Recommend you use testing framework after you know something about previous contents.
+
+4. You can also test your contracts using go/java/ts/python-sdk with the help with examples of OEP4/OEP5/OEP8 test. For more info, please find ontology-**-sdk under [official](https://github.com/ontio) github account.
 
 
 

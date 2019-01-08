@@ -42,6 +42,8 @@
 
 3. 我们也有Python测试框架，可测试合约功能，建议：在上述内容有了大致了解之后，再去接触测试框架。
 
+4. 可以以通过go/java/ts/python sdk 来测试合约，sdk中包含一些OEP4 OEP5 OEP8调用的相关例子可供参考。详细信息，请在[官方github帐号](https://github.com/ontio)下面找到对应的sdk查看。
+
 
 
 感兴趣且有时间的话，也可以看一下我们的Dapp开发框架[punica-python](https://github.com/ontio-community/punica-python), 类型于Ethereum的truffle工具。
