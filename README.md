@@ -27,3 +27,11 @@ CheckWitness有两个功能
 
 
 
+3. How to get the invoker like ```msg.sender``` in Ethereum smart contract?
+
+```
+Ontology smart contract does not have built-in invoker like msg.sender, you have to pass in the invoker to the method when you invoking the contract method.
+Then how can we verify that the passed in account is actually the real invoker. Here we have to use ```CheckWitness``` method within contract to verfiy the transaction has been signed by the invoker.
+This leads to the previous question ``` What does `CheckWitness` actually do? ```.
+```
+
