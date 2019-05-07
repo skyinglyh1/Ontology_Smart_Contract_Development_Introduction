@@ -1,6 +1,6 @@
 此文档可作为合约(如[OEP4](https://github.com/ONT-Avocados/python-template/blob/master/OEP4Sample/OEP4Sample_compiler2.0.py))的编译，布署文档。
 
-a. 将合约中的```OWNER```改为布署者的帐号(注：以大A开头的Base58地址)。
+a. 将合约中的```OWNER```改为将拥有所有代币的帐号(注：以大A开头的Base58地址)。
 
 b. 打开chrome浏览器，安装[cyano wallet](https://chrome.google.com/webstore/detail/cyano-wallet/dkdedlpgdmmkkfjabffeganieamfklkm) 一种类似于MetaMask的钱包插件。
 
