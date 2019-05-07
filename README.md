@@ -2,6 +2,8 @@
 [简介](Introduction_CN.md) | [Introduction](Introduction_EN.md)
 
 
+[smartx编译布署合约指导](https://github.com/skyinglyh1/Ontology_Smart_Contract_Development_Introduction/blob/master/Compile_Deploy_Vis_SmartX.md)
+
 1. Generate ONG from nowhere in local testmode.
 ```
 ontology.exe asset transfer --from=1 --to=1 --amount=100000000 --asset=ont
