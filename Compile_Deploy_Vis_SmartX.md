@@ -1,4 +1,4 @@
-此文档可作为合约的编译，布署文档。
+此文档可作为合约(如[OEP4](https://github.com/ONT-Avocados/python-template/blob/master/OEP4Sample/OEP4Sample_compiler2.0.py))的编译，布署文档。
 
 a. 将合约中的```OWNER```改为布署者的帐号(注：以大A开头的Base58地址)。
 
