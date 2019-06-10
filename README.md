@@ -20,7 +20,7 @@ ontology.exe asset withdrawong 1
 ```
 CheckWitness有两个功能
 
-1. 验证当前的函数调用者是不是from,若是（验证签名），则验证通过
+1. 验证当前的函数调用者是不是from,若是（验证签名），则验证通过.
 
 2. 检查当前函数调用者是不是一个合约A，若是合约A，且是从合约A发起的去执行函数，则验证通过(验证from是不是callingScriptHash)
 
